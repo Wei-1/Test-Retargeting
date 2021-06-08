@@ -1,3 +1,11 @@
+# Note - 2021-06-08
+
+This test and API link is no longer working.
+
+Stop the repo maintenance.
+
+----
+
 # W?
 
 This is a repo for Google Doubleclick (DC) Retargeting API testing.
